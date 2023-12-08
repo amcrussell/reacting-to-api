@@ -1,0 +1,14 @@
+
+
+.hover:not(:hover) > .desc{
+    display: none;
+}
+
+.hover:hover {
+    display: block;
+}
+
+.hidden{
+    color:black;
+    text-decoration: none;   
+}
